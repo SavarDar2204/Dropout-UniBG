@@ -1,0 +1,10 @@
+"scenario","base","set","auc"
+"Early","RF - nodesize e mtry migliori","test",0.707425265737654
+"Mid (after 1st semester)","RF - nodesize e mtry migliori","test",0.853815508249979
+"Mid (after 1st semester)","RF - mtry di default","test",0.851926704853096
+"Early","RF - nodesize e mtry migliori","train",0.701677436973986
+"Mid (after 1st semester)","RF - nodesize e mtry migliori","train",0.872393294605255
+"Mid (after 1st semester)","RF - mtry di default","train",0.871727389382138
+"Early","RF - nodesize e mtry migliori","validation",0.692671894504331
+"Mid (after 1st semester)","RF - nodesize e mtry migliori","validation",0.866238171999894
+"Mid (after 1st semester)","RF - mtry di default","validation",0.864929225039599

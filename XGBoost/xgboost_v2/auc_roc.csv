@@ -1,0 +1,19 @@
+"scenario","modello","set","auc"
+"Early","M1_conservativo","test",0.721437405602576
+"Mid (after 1st semester)","M1_conservativo","test",0.857161095437577
+"Early","M2_base","test",0.721408908267077
+"Mid (after 1st semester)","M2_base","test",0.857338918811091
+"Early","M3_profondo","test",0.72097346898065
+"Mid (after 1st semester)","M3_profondo","test",0.854814054885868
+"Early","M1_conservativo","train",0.768285125439073
+"Mid (after 1st semester)","M1_conservativo","train",0.887024713502147
+"Early","M2_base","train",0.787509557899447
+"Mid (after 1st semester)","M2_base","train",0.892902797260677
+"Early","M3_profondo","train",0.84110507032779
+"Mid (after 1st semester)","M3_profondo","train",0.912341178310142
+"Early","M1_conservativo","validation",0.709709223268697
+"Mid (after 1st semester)","M1_conservativo","validation",0.872088707280345
+"Early","M2_base","validation",0.712359613537919
+"Mid (after 1st semester)","M2_base","validation",0.872475980279188
+"Early","M3_profondo","validation",0.710807838357795
+"Mid (after 1st semester)","M3_profondo","validation",0.873062107081133

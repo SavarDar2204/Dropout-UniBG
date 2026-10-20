@@ -1,0 +1,19 @@
+"scenario","base","set","auc"
+"Early","euclidea","test",0.683700094041207
+"Mid (after 1st semester)","euclidea","test",0.836119802798438
+"Early","gower (pesi uguali)","test",0.697599384457553
+"Mid (after 1st semester)","gower (pesi uguali)","test",0.845759311504374
+"Early","gower pesato","test",0.702812117067054
+"Mid (after 1st semester)","gower pesato","test",0.852271522612636
+"Early","euclidea","train",0.680021730617644
+"Mid (after 1st semester)","euclidea","train",0.860487194708442
+"Early","gower (pesi uguali)","train",0.695121137652102
+"Mid (after 1st semester)","gower (pesi uguali)","train",0.867641247062599
+"Early","gower pesato","train",0.691828115538485
+"Mid (after 1st semester)","gower pesato","train",0.86764987284114
+"Early","euclidea","validation",0.668401594050246
+"Mid (after 1st semester)","euclidea","validation",0.859348797023931
+"Early","gower (pesi uguali)","validation",0.688694669376484
+"Mid (after 1st semester)","gower (pesi uguali)","validation",0.862641959106476
+"Early","gower pesato","validation",0.683846899863247
+"Mid (after 1st semester)","gower pesato","validation",0.865311727932222

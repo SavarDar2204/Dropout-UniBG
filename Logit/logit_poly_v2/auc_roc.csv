@@ -1,0 +1,13 @@
+"scenario","colonna","set","auc"
+"Early","lineare","test",0.695201618648656
+"Mid (after 1st semester)","lineare","test",0.856811148157647
+"Early","scelto","test",0.7003140406372
+"Mid (after 1st semester)","scelto","test",0.856559231711835
+"Early","lineare","train",0.699394973008512
+"Mid (after 1st semester)","lineare","train",0.874863768821522
+"Early","scelto","train",0.704054796703942
+"Mid (after 1st semester)","scelto","train",0.876032336103863
+"Early","lineare","validation",0.68835882408534
+"Mid (after 1st semester)","lineare","validation",0.870449579530043
+"Early","scelto","validation",0.693914507174985
+"Mid (after 1st semester)","scelto","validation",0.871042265228042

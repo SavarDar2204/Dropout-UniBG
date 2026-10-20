@@ -1,0 +1,7 @@
+"scenario","base","set","auc"
+"Early","Neural network","train",0.718413582436383
+"Early","Neural network","validation",0.69407937397126
+"Early","Neural network","test",0.703900145336411
+"Mid (after 1st semester)","Neural network","train",0.874807451150032
+"Mid (after 1st semester)","Neural network","validation",0.870264737913967
+"Mid (after 1st semester)","Neural network","test",0.85771508363968

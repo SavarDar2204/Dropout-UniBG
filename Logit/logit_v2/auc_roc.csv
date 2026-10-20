@@ -1,0 +1,7 @@
+"scenario","base","set","auc"
+"Early","Logit","train",0.699541818652803
+"Early","Logit","validation",0.688617006084569
+"Early","Logit","test",0.695179960673677
+"Mid (after 1st semester)","Logit","train",0.875002879326359
+"Mid (after 1st semester)","Logit","validation",0.870235521013361
+"Mid (after 1st semester)","Logit","test",0.857434669858368

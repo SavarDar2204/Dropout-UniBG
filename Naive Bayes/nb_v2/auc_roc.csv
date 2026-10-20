@@ -1,0 +1,7 @@
+"scenario","base","set","auc"
+"Early","naive bayes","test",0.68624319626115
+"Mid (after 1st semester)","naive bayes","test",0.837260836111824
+"Early","naive bayes","train",0.678064825739265
+"Mid (after 1st semester)","naive bayes","train",0.857658134555703
+"Early","naive bayes","validation",0.669788502434096
+"Mid (after 1st semester)","naive bayes","validation",0.850594906778709
